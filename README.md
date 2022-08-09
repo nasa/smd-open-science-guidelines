@@ -1,5 +1,8 @@
 # Science Mission Directorate Open Science Guidelines
 
+**Note** 
+This repository is currently a work in progress.  This work is being done openly and will be still in development.  Please see the section on Limitations in the README.  
+
 
 NASA has a mandate to openly share the scientific infomration produced from its activities.  To support this mandate, SMD has developed an ambitious open science vision in [SMD's Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/files/science-red/s3fs-public/atoms/files/SDMWG%20Strategy_Final.pdf). SMD released [SPD-41: Scientific Information policy for the Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf) to help consolidate existing Federal and NASA policy on sharing our scientific information.   This includes how scientific publications, data, and software are shared to increase accessibility, transparency, reproducibility, and inclusion to support SMD's scientific communities. 
 
