@@ -12,9 +12,18 @@ This repository provides guidelines, best practies, and examples in open science
 
 A collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding.
 
+## Requests for Comment
+
+NASA SMD welcomes comment on a proposed guideline for repositories entitled ["Registration of DOIs for data citation"](request_for_comment/draft/RFC_001_data_citation_identifier.md). 
+
+The guidelines described in this RFC recommend that NASA data repositories use DOIs as persistent identifiers to facilitate citation of data in the scientific literature. The guidelines provide an overview of the scenarios in which NASA data repositories may need to register a DOI and the mechanisms through which they can do so. They provide guidance on the registration process and appropriate roles. The intent is to identify services and define a process that allow data repositories the flexibility they need to respond to the needs of their user communities while also enabling the creation of a central NASA registry of DOIs managed through the Scientific and Technical Information (STI) Program Office.
+
+To comment please open an issue in this repository using this [template](request_for_comment/draft/issue_template.md). The deadline for comments is 30 November 2022.
+
+
 ## Guidelines 
 
-Please see the following sections for more guidelines, best practices,  and examples on open science practices for SMD-funded activities.  
+Please see the following sections for more guidelines, best practices, and examples on open science practices for SMD-funded activities.  
 
 ### For Researchers
 * [Publications](guidance/research_publications.md)
@@ -23,14 +32,14 @@ Please see the following sections for more guidelines, best practices,  and exam
 * To be included
 
 ### For Data Repositories
-* To be included
+* To be included, see request for comment above.
 
 ## Contributing
 
 Contributions to the repository are welcome! Following the best practices of open science, the material in the repository can be best built through the collective knowledge of the community. For reporting something that needs to be fixed or suggesting an addition, contributions can be made through opening an issue in the repository. If you are interested in contributing material directly to the repository, please see the following guides:
 
 * [Contributors Guide](Contributing)
-* Process for new guidelines
+* The process for developing new guidelines are still being refined, but [this presentation](https://docs.google.com/presentation/d/1DaFJpTCfl3cuTqBn7c32Bs8RNxRsa3vJnurmgh9SlXA/edit?usp=sharing) provides an overview.
 
 Contributions 
 For any questions, please contact the maintainers or send an email to <HQ-SMD-SPD41@mail.nasa.gov>. 
