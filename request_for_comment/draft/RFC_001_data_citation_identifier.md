@@ -2,14 +2,14 @@
 
 A.  Title: [insert version and date, version 0.9 is the first stable version for public comment, version 1.0 is the first approved version.]
    1.  Registration of DOIs for data citation
-   2.  version 0.x
-   3.  2022-08-16
+   2.  version 0.9
+   3.  2022-09-26
 
 B.  Summary: [A concise articulation of what issues the guideline will address, what organizations are and should be adopting it, necessary context or background, and the overall impact on NASA individuals and organizations]
    1.  NASA SMD’s information policy (SPD41a) states that SMD-funded data collections shall be citable using a persistent identifier, but does not require a particular implementation of identifiers, although Digital Object Identifiers (DOIs) are listed as an example in the appendix. The purpose of this document is to describe how NASA data repositories will comply with the SPD-41a policy requirement.
    2.  DataCite is an organization that was founded specifically to support the creation of DOIs and metadata associated with data sets and to aid in referencing and discovery of research data. DataCite also meets NASA data citation policy requirements. Several NASA data repositories already have a relationship with DataCite and most register DOIs for at least some of their data holdings, but data citation is still an evolving process. 
    3.  The guidelines described in this document recommend that NASA data repositories use DOIs as persistent identifiers to facilitate citation of data in the scientific literature. The guidelines provide an overview of the scenarios in which NASA data repositories may need to register a DOI and the mechanisms through which they can do so. They provide guidance on the registration process and appropriate roles. The intent is to identify services and define a process that allow data repositories the flexibility they need to respond to the needs of their user communities while also enabling the creation of a central NASA registry of DOIs managed through the Scientific and Technical Information (STI) Program Office. 
-   4.  Much of the document provides background, rationale, context, and definitions. The primary guidance (what a repository should do) is in Section 8: Guideline Description. Implementation details are in Section 11: Adoption Plan and Timeline.
+   4.  Much of the document provides background, rationale, context, and definitions. The primary guidance (what a repository should do) is in Section H: Guideline Description. Implementation details are in Section K: Adoption Plan and Timeline.
 
 C.  Problem Statement: [Why is a guideline needed? What specific problem is being addressed?]
    1. The 8 November 2021 Draft SMD Information policy (SPD-41a) states: 
@@ -85,7 +85,7 @@ I. Guideline Maintenance: [What organization provides the official version of th
    1. The NASA Science Data Officer will provide the official version of these guidelines, and will update them as needed. Questions about this guideline should be directed to [generic email address TBD]
    2. Updates may be required in the event that any of the technologies or organizations used or referenced by these guidelines are significantly modified or supplanted by newer technologies or entities. These include:
       1. The DOI specification (ISO 26324) is defined and maintained by the DOI Foundation. -  https://www.doi.org/. The specification has been stable since its ISO designation in 2012.
-      2. The DataCite organization (https://datacite.org/) was founded in 2009 as a not-for-profit to support the data citation as a DOI Registration Authority specializing in providing DOIs and metadata for research data output. They provide open access to the metadata they curate, and work closely with other DOI Registration Authorities and members to promote citation, discovery, and reuse of research data. 
+      2. The DataCite organization (https://datacite.org/) was founded in 2009 as a not-for-profit to support data citation as a DOI Registration Authority specializing in providing DOIs and metadata for research data output. They provide open access to the metadata they curate, and work closely with other DOI Registration Authorities and members to promote citation, discovery, and reuse of research data. 
       3. The NASA Scientific and Technical Information (STI) Program Office is a consortium-member of DataCite and provides DOI services for many NASA projects and organizations. NASA can 
       4. The DataCite Metadata Schema includes metadata specific to research data (size, file format, licensing information, contributor roles, etc.). This enables discoverability by providing relevant metadata to raise the visibility of research data to those who seek it in the DataCite database - including the Astrophysics Data System Abstract Service, which harvests metadata from DOI databases.
       5. Individual data repositories should maintain the metadata and a resolvable URL for the landing page of any object identified by a DOI they  created/requested.
