@@ -14,12 +14,8 @@ A collaborative culture enabled by technology that empowers the open sharing of 
 
 ## Requests for Comment
 
-NASA SMD welcomes comment on a proposed guideline for repositories entitled ["Registration of DOIs for data citation"](request_for_comment/draft/RFC_001_data_citation_identifier.md). 
-
-The guidelines described in this RFC recommend that NASA data repositories use DOIs as persistent identifiers to facilitate citation of data in the scientific literature. The guidelines provide an overview of the scenarios in which NASA data repositories may need to register a DOI and the mechanisms through which they can do so. They provide guidance on the registration process and appropriate roles. The intent is to identify services and define a process that allow data repositories the flexibility they need to respond to the needs of their user communities while also enabling the creation of a central NASA registry of DOIs managed through the Scientific and Technical Information (STI) Program Office.
-
-To comment please open an issue in this repository using this [template](request_for_comment/draft/issue_template.md). The deadline for comments is 30 November 2022.
-
+### Past RFCs
+* [Registration of DOIs for data citation](request_for_comment/draft/RFC_001_data_citation_identifier.md). 
 
 ## Guidelines 
 
@@ -32,7 +28,7 @@ Please see the following sections for more guidelines, best practices, and examp
 * To be included
 
 ### For Data Repositories
-* To be included, see request for comment above.
+* [Registering DOIs for data citation](guidance/doi_registration.md)
 
 ## Contributing
 
