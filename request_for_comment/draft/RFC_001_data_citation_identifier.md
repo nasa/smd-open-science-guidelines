@@ -3,7 +3,7 @@
 A.  **Title** [insert version and date, version 0.9 is the first stable version for public comment, version 1.0 is the first approved version.]
    1.  Registration of DOIs for data citation
    2.  version 0.9.1
-   3.  2022-09-26
+   3.  2023-01-03
 
 B.  **Summary** [A concise articulation of what issues the guideline will address, what organizations are and should be adopting it, necessary context or background, and the overall impact on NASA individuals and organizations]
    1.  NASA SMD’s information policy (SPD41a) states that SMD-funded data collections shall be citable using a persistent identifier, but does not require a particular implementation of identifiers, although Digital Object Identifiers (DOIs) are listed as an example in the appendix. The purpose of this document is to describe how NASA data repositories will comply with the SPD-41a policy requirement.
