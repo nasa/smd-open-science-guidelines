@@ -28,7 +28,7 @@ Please see the following sections for more guidelines, best practices, and examp
 * To be included
 
 ### For Data Repositories
-* [Registering DOIs for data citation](guidance/doi_registration.md)
+* [Registering DOIs for data citation](guidance/guideline001_doi_registration.md)
 
 ## Contributing
 
