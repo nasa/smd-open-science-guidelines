@@ -4,7 +4,7 @@ Consistent with the principles of open-source science, software developed using 
 This page contains supplemental guidance for researchers to support the implementation of requirements for software management and sharing established by SPD-41a. In addition to these pages, researchers should reference the guidance provided in the software policies and guidance provided by their relevant divisions.
 
 ## Software in Scope of SPD-41a
-Software is defined as computer programs, including source and object code, that provide users some degree of utility or service. Scientific software in scope of SPD-41a is software that provides users some degree of scientific utility or produces a scientific result or service. Further definitions and examples of software are provided in [Types of Research Software and Expectations for Sharing](OSS_Guidance/Research_Software_Types).  The guidance provided here is most relevant for research software that is produced by investigations funded via SMD research awards. This software should be developed and released as described in the project’s software management plan. 
+Software is defined as computer programs, including source and object code, that provide users some degree of utility or service. Scientific software in scope of SPD-41a is software that provides users some degree of scientific utility or produces a scientific result or service. Further definitions and examples of software are provided in [Types of Research Software and Expectations for Sharing](Research_Software_Types.md).  The guidance provided here is most relevant for research software that is produced by investigations funded via SMD research awards. This software should be developed and released as described in the project’s software management plan. 
 
 Software developed only for preliminary analysis, plans for future research, or communication with colleagues is not required to be released.
 
@@ -14,7 +14,7 @@ Restricted software, that is software that is subject to specific laws, regulati
 Commercial software, that is software that is produced for the purposes of sale and includes software that would be classified as commercial-off-the-shelf (CoTS), is not included in the types of software that must be released as part of research awards. Software developed in a proprietary or commercial language, such as IDL or MATLab, is expected to be released if allowed by the license. 
 
 ## Software Management Plans
-All SMD-funded scientific activities that are expected to produce software shall include a software management plan (SMP) describing how software will be managed, preserved, and released to comply with the requirements of SPD-41a. The software management plan may be one component of a broader [OSDMP](OSS_Guidance/OSDMP). Though not required under SPD-41A, the OSDMP will be a required component of many proposals for SMD funding starting with ROSES-2023.
+All SMD-funded scientific activities that are expected to produce software shall include a software management plan (SMP) describing how software will be managed, preserved, and released to comply with the requirements of SPD-41a. The software management plan may be one component of a broader [OSDMP](OSDMP.md). Though not required under SPD-41A, the OSDMP will be a required component of many proposals for SMD funding starting with ROSES-2023.
 
 At a minimum, a software management plan for SMD-funded research should include:
 * Descriptions of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software.  This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning. 
@@ -42,7 +42,7 @@ If there is no specific guidance on how to share software, options for where to 
 The method for archiving and sharing the software should be described in the Software Management Plan.  
 
 ## General Expectations for Open-Source Software
-Unrestricted software developed using SMD-funding is expected to be shared openly. There are many different types of software and the expectations for software sharing are different for missions and researchers (See [Types of Research Software and Expectations for Sharing](OSS_Guidance/Research_Software_Types)).  
+Unrestricted software developed using SMD-funding is expected to be shared openly. There are many different types of software and the expectations for software sharing are different for missions and researchers (See [Types of Research Software and Expectations for Sharing](Research_Software_Types.md)). 
 
 When released, SMD-funded software should follow best practices in the relevant open source and research communities.  For example, providing documentation and testing, which are not required to be provided under SPD-41a, alongside the source code increases the quality of the software and reusability of the software. 
 
