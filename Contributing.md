@@ -1,27 +1,27 @@
-## Welcome!
+# Welcome!
 
-We're so glad you're thinking about contributing to SMD's Guidelines for Open Science!
+We're so glad you're thinking about contributing to SMD's Open-Source Science Guidance!
 
-Before contributing, we encourage you to read our CONTRIBUTING guide (you are here), our [LICENSE](https://github.com/nasa/Transform-to-Open-Science/blob/main/LICENSE.MD), our [README](https://github.com/nasa/Transform-to-Open-Science/blob/main/README.MD), and our [Code of Conduct](https://github.com/nasa/Transform-to-Open-Science/blob/main/CODE_OF_CONDUCT.MD), all of which should be in this repository.
+Before contributing, we encourage you to read our CONTRIBUTING guide (you are here), our [LICENSE](LICENSE.MD), our [README](README.md), and our [Code of Conduct](CODE_OF_CONDUCT).
 
 ## Ways to Contribute
 
-If you do not already have a GitHub account, you can [sign up for GitHub here](https://github.com/). In the spirit of open source software, everyone is encouraged to help improve this project. Here are some ways you can contribute:
+If you do not already have a GitHub account, you can [sign up for GitHub here](https://github.com/). In the spirit of open science, everyone is encouraged to help improve this project. Here are some ways you can contribute:
 - by reporting bugs
 - by suggesting new features
 - by translating content to a new language
 - by writing or editing documentation
 - by writing specifications
 - by writing code and documentation (**no pull request is too small**: fix typos, add code comments, clean up inconsistent whitespace)
-- by reviewing [pull requests](https://github.com/nasa/Transform-to-Open-Science/pulls).
+- by reviewing [pull requests](https://github.com/nasa/smd-open-science-guidelines/pulls)
 - by closing issues
 
 #### Submit Great Issues
-* Before submitting a new [issue](https://github.com/nasa/Transform-to-Open-Science/issues), check to make sure [a similar issue isn't already open](https://github.com/nasa/Transform-to-Open-Science/issues?q=is%3Aopen+is%3Aissue). If one is, contribute to that issue thread with your feedback.
+* Before submitting a new [issue](https://github.com/nasa/smd-open-science-guidelines/issues), check to make sure [a similar issue isn't already open](https://github.com/nasa/smd-open-science-guidelines/issues?q=is%3Aopen+is%3Aissue). If one is, contribute to that issue thread with your feedback.
 * When submitting a bug report, please try to provide as much detail as possible, i.e. a screenshot or [gist](https://gist.github.com/) that demonstrates the problem, the technology you are using, and any relevant links. 
 
 #### Ready for your Help 
-Issues labeled :sparkles:[`help wanted`](https:/github.com/nasa/Transform-to-Open-Science/labels/help%20wanted):sparkles: make it easy for you to find ways you can contribute today. 
+Issues labeled :sparkles:`help wanted`:sparkles: make it easy for you to find ways you can contribute today. 
 
 ## Development Model
 
