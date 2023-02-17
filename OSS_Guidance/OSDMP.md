@@ -6,7 +6,7 @@ SPD-41a requires a data management plan and a software management plan for all S
 OSDMPs should reflect the practices of specific research communities, and SMD Divisions and/or specific ROSES program elements may provide additional guidance on components such as data management plans and software management plans. 
 
 ## Data Management Plan
-All SMD-funded scientific activities that are expected to produce scientific data shall include a data management plan describing how data will be managed, preserved, and released to comply with the requirements of SPD-41a. General guidance on the components of data management plans for SMD is provided in the [Data Management and Sharing](Data_Management_Sharing.md)section.
+All SMD-funded scientific activities that are expected to produce scientific data shall include a data management plan describing how data will be managed, preserved, and released to comply with the requirements of SPD-41a. General guidance on the components of data management plans for SMD is provided in the [Data Management and Sharing](Data_Management_Sharing.md) section.
 ## Software Management Plan
 All SMD-funded scientific activities that are expected to produce software shall include a software management plan describing how software will be managed, preserved, and released to comply with the requirements of SPD-41a. General guidance on the components of software management plans for SMD is provided in the [Software Management and Sharing](Software_Management_Sharing.md) section.
 ## Publication Sharing Plan 
