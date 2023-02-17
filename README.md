@@ -6,7 +6,6 @@ As part of the OSSI, [SMD’s Scientific Information Policy](https://science.nas
 
 This repository provides guidelines, best practices, and examples of open-source science to support the SMD scientific community in implementing the requirements of SPD-41a and achieving the broad OSSI goal of moving science towards openness. **Please note the [Limitations](#limitations) to this guidance.** This guidance represents general recommendations and best practices for the SMD scientific community and should be considered alongside any additional guidance provided by SMD Divisions or specific funding solicitations. For additional information about SPD-41a and other scientific information policies that correspond to SMD Divisions, see the [Scientific Information Policy website](https://science.nasa.gov/researchers/science-data/science-information-policy) and [Frequently Asked Questions \(FAQ\)](https://science.nasa.gov/researchers/science-data/science-information-policy_faq). For open science training opportunities and additional resources, see [NASA’s Transform to Open Science \(TOPS\) program](https://nasa.github.io/Transform-to-Open-Science/). 
 
-
 ## Guidance
 
 ### For Researchers
@@ -22,22 +21,14 @@ This repository provides guidelines, best practices, and examples of open-source
 
 ### For Data Repositories
 * [Registering DOIs for data citation](guidance/guideline001_doi_registration.md)
-* The process for developing additional guidelines for data repositories is still being refined, but [this presentation](https://docs.google.com/presentation/d/1DaFJpTCfl3cuTqBn7c32Bs8RNxRsa3vJnurmgh9SlXA/edit?usp=sharing) provides an overview.
-
-
-
 
 ## Contributing
 
 Contributions to the repository are welcome! Following the best practices of open science, this material can be best built through the collective knowledge of the community. To report something that needs to be fixed or suggesting an addition, contributions can be made through opening an issue in the repository. If you are interested in contributing material directly to the repository, please see the [Contributors' Guide](Contributing)
 
+SMD sometimes solicits a Request for Comment (RFC) to gather community input on specific topics for the development of open-source science guidance. The guideline on [registration of DOIs for data citation](request_for_comment/draft/RFC_001_data_citation_identifier.md) is one such example of guidance developed following an RFC. The process for developing additional guidelines is still being refined, but [this presentation](https://docs.google.com/presentation/d/1DaFJpTCfl3cuTqBn7c32Bs8RNxRsa3vJnurmgh9SlXA/edit?usp=sharing) provides an overview.
 
 Please contact the maintainers or send an email to <HQ-SMD-SPD41@mail.nasa.gov> with any questions. 
-
-## Requests for Comment
-
-### Past RFCs
-* [Registration of DOIs for data citation](request_for_comment/draft/RFC_001_data_citation_identifier.md). 
 
 ## Limitations
 
@@ -45,6 +36,3 @@ This repository does not establish policy requirements related to SMD funded act
 For requirements related to scientific information on SMD-funded activities, please see [SPD-41a](https://science.nasa.gov/spd-41), NASA policies, and/or any requirements in the solicitation or agreement associated with the activity.
 
 This repository will be updated as new information becomes available.
-
-
-
