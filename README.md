@@ -22,17 +22,15 @@ This repository provides guidelines, best practices, and examples of open-source
 
 ### For Data Repositories
 * [Registering DOIs for data citation](guidance/guideline001_doi_registration.md)
-
+* The process for developing additional guidelines for data repositories is still being refined, but [this presentation](https://docs.google.com/presentation/d/1DaFJpTCfl3cuTqBn7c32Bs8RNxRsa3vJnurmgh9SlXA/edit?usp=sharing) provides an overview.
 
 
 
 
 ## Contributing
 
-Contributions to the repository are welcome! Following the best practices of open science, this material can be best built through the collective knowledge of the community. To report something that needs to be fixed or suggesting an addition, contributions can be made through opening an issue in the repository. If you are interested in contributing material directly to the repository, please see the following guides:
+Contributions to the repository are welcome! Following the best practices of open science, this material can be best built through the collective knowledge of the community. To report something that needs to be fixed or suggesting an addition, contributions can be made through opening an issue in the repository. If you are interested in contributing material directly to the repository, please see the [Contributors' Guide](Contributing)
 
-* [Contributors Guide](Contributing)
-* The process for developing new guidelines are still being refined, but [this presentation](https://docs.google.com/presentation/d/1DaFJpTCfl3cuTqBn7c32Bs8RNxRsa3vJnurmgh9SlXA/edit?usp=sharing) provides an overview.
 
 Please contact the maintainers or send an email to <HQ-SMD-SPD41@mail.nasa.gov> with any questions. 
 
@@ -45,8 +43,6 @@ Please contact the maintainers or send an email to <HQ-SMD-SPD41@mail.nasa.gov> 
 
 This repository does not establish policy requirements related to SMD funded activities. While the guidance described here is compliant with [SPD-41a: Scientific Information Policy for the Science Mission Directorate](https://science.nasa.gov/spd-41), it may not be comprehensive or complete, and there may be other ways in which to comply with existing or future agreements or requirements not described here. 
 For requirements related to scientific information on SMD-funded activities, please see [SPD-41a](https://science.nasa.gov/spd-41), NASA policies, and/or any requirements in the solicitation or agreement associated with the activity.
-
-This repository includes guidelines, best practices, and examples of Open Science, and this repository does not include requirements related to SMD funded activities.  While these practices are compliant with [SPD-41: Scientific Information policy for the Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf), they may not be comprehensive or complete, and there may be other ways in which to be compliant with existing or future agreements or requiements not described here. For requirements related to scientific information on SMD-funded activities, please see the [SPD-41: Scientific Information policy for the Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf), NASA policies, and/or any requirements in the solicitation or agreement associated with the activity.  
 
 This repository will be updated as new information becomes available.
 
