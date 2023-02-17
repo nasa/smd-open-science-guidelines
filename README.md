@@ -26,9 +26,9 @@ Please see the following sections for more guidelines, best practices, and examp
 * [Open Science and Data Management Plan](OSS_Guidance/OSDMP.md)
 * [Sharing Publications](OSS_Guidance/Publications.md)
 * [Data Management and Sharing](OSS_Guidance/Data_Management_Sharing.md)
-* [Software Management and Sharing] (OSS_Guidance/Software_Management_Sharing.md)
-* [Sharing Materials from Science Events] (OSS_Guidance/Science_Events.md)
-* [Glossary of Open-Source Science Terms] (OSS_Guidance/Glossary.md)
+* [Software Management and Sharing](OSS_Guidance/Software_Management_Sharing.md)
+* [Sharing Materials from Science Events](OSS_Guidance/Science_Events.md)
+* [Glossary of Open-Source Science Terms](OSS_Guidance/Glossary.md)
 
 ### For Missions
 * To be included
