@@ -24,8 +24,8 @@ Please see the following sections for more guidelines, best practices, and examp
 
 ### For Researchers
 * [Open Science and Data Management Plan](OSS_Guidance/OSDMP.md)
-* [Sharing Publications](OSS_Guidance/3-Sharing Publications.md)
-* [old publications guidance](guidance/research_publications.md)
+* [Sharing Publications](OSS_Guidance/Publications.md)
+* [Data Management and Sharing](OSS_Guidance/Data.md)
 
 ### For Missions
 * To be included
