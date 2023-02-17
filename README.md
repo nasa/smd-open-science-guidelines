@@ -27,7 +27,7 @@ Looking for this guidance in another format? This content is also available as a
 
 ## Contributing
 
-Contributions to the repository are welcome! Following the best practices of open science, this material can be best built through the collective knowledge of the community. To report something that needs to be fixed or suggesting an addition, contributions can be made through opening an issue in the repository. If you are interested in contributing material directly to the repository, please see the [Contributors' Guide](Contributing).
+Contributions to the repository are welcome! Following the best practices of open science, this material can be best built through the collective knowledge of the community. To report something that needs to be fixed or suggesting an addition, contributions can be made through opening an issue in the repository. If you are interested in contributing material directly to the repository, please see the [Contributors' Guide](Contributing.md).
 
 SMD sometimes solicits a Request for Comment (RFC) to gather community input on specific topics for the development of open-source science guidance. The guideline on [registration of DOIs for data citation](request_for_comment/draft/RFC_001_data_citation_identifier.md) is one such example of guidance developed following an RFC. The process for developing additional guidelines is still being refined, but [this presentation](https://docs.google.com/presentation/d/1DaFJpTCfl3cuTqBn7c32Bs8RNxRsa3vJnurmgh9SlXA/edit?usp=sharing) provides an overview.
 
