@@ -1,4 +1,4 @@
-# Science Mission Directorate Open-Source Science Guidance
+# NASA Science Mission Directorate: Open-Source Science Guidance
 
 **Note** 
 This repository is currently a work in progress.  This work is being done openly and is still in development.  Please see the section on Limitations in the README.  
@@ -25,7 +25,10 @@ Please see the following sections for more guidelines, best practices, and examp
 ### For Researchers
 * [Open Science and Data Management Plan](OSS_Guidance/OSDMP.md)
 * [Sharing Publications](OSS_Guidance/Publications.md)
-* [Data Management and Sharing](OSS_Guidance/Data.md)
+* [Data Management and Sharing](OSS_Guidance/Data_Management_Sharing.md)
+* [Software Management and Sharing] (OSS_Guidance/Software_Management_Sharing.md)
+* [Sharing Materials from Science Events] (OSS_Guidance/Science_Events.md)
+* [Glossary of Open-Source Science Terms] (OSS_Guidance/Glossary.md)
 
 ### For Missions
 * To be included
