@@ -2,7 +2,7 @@
 
 We're so glad you're thinking about contributing to SMD's Open-Source Science Guidance!
 
-Before contributing, we encourage you to read our CONTRIBUTING guide (you are here), our [LICENSE](LICENSE.MD), our [README](README.md), and our [Code of Conduct](CODE_OF_CONDUCT).
+Before contributing, we encourage you to read our CONTRIBUTING guide (you are here), our [LICENSE](LICENSE.MD), our [README](README.md), and our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Ways to Contribute
 
