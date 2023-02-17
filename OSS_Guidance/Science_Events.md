@@ -7,5 +7,5 @@ This requirement does not apply to restricted information, nor does it apply to 
 
 ## How to Share Publications Produced for an Event
 A specific repository may be identified by a SMD solicitation. If no repository is specified, event participants have several options for sharing their scientific publications produced for SMD-funded events. These include:
-* Submitting to NASA STI Repository. For those with a NASA identity who have completed the STRIVES process for their scientific publications produced for an event, these publications will be archived in the NTRS and no additional action is required by the researcher.
-* Sharing through an external, community-accepted repository (e.g., Zenodo or arXiv). This option is recommended for those without a NASA identity.
+* Submitting to [NASA STI Repository](https://ntrs.nasa.gov/). For those with a NASA identity who have completed the STRIVES process for their scientific publications produced for an event, these publications will be archived in the NTRS and no additional action is required by the researcher.
+* Sharing through an external, community-accepted repository (e.g., [Zenodo](https://zenodo.org/) or [arXiv](https://arxiv.org/)). This option is recommended for those without a NASA identity.
