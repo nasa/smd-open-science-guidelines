@@ -23,7 +23,7 @@ A collaborative culture enabled by technology that empowers the open sharing of 
 Please see the following sections for more guidelines, best practices, and examples on open science practices for SMD-funded activities.  
 
 ### For Researchers
-* [Open Science and Data Management Plan](Open-Source Science Guidance/2-OSDMP.md)
+* [Open Science and Data Management Plan](OSS_Guidance/OSDMP.md)
 * [Sharing Publications](OSS_Guidance/3-Sharing Publications.md)
 * [old publications guidance](guidance/research_publications.md)
 
