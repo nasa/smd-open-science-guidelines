@@ -1,9 +1,9 @@
 # Open Science and Data Management Plan
 An Open Science and Data Management Plan (OSDMP) describes how the scientific information that will be produced from SMD-funded scientific activities will be managed and made openly available. At a minimum, the OSDMP should include sections on data management, software management, and publication sharing that describe how these categories of scientific information will be managed and openly shared to comply with applicable SMD scientific information policies. The OSDMP may also include a description of other types of scientific information that will be shared openly and other open science activities associated with the project.
 
-SPD-41a requires a data management plan and a software management plan for all SMD-funded scientific activities but does not require an OSDMP. However, many SMD funding opportunities starting with ROSES-2023 will require an OSDMP instead of the previous requirement for a data management plan.
+SPD-41a requires a data management plan and a software management plan for all SMD-funded scientific activities but does not require an OSDMP. However, many SMD funding opportunities starting with ROSES-2023 will require an OSDMP instead of the previous requirement for a data management plan. The [ROSES Open Science and Data Management Plan page](https://science.nasa.gov/researchers/sara/faqs/OSDMP/) provides additional guidance for proposers.
 
-OSDMPs should reflect the practices of specific research communities, and SMD Divisions and/or specific ROSES program elements may provide additional guidance on components such as data management plans and software management plans. 
+OSDMPs should reflect the practices of specific research communities, and SMD divisions and/or specific ROSES program elements may provide additional guidance on components such as data management plans and software management plans. 
 
 ## Data Management Plan
 All SMD-funded scientific activities that are expected to produce scientific data shall include a data management plan describing how data will be managed, preserved, and released to comply with the requirements of SPD-41a. General guidance on the components of data management plans for SMD is provided in the [Data Management and Sharing](Data_Management_Sharing.md) section.
@@ -19,3 +19,9 @@ The OSDMP may also include a description of additional open science activities a
 * Implementing practices that support the inclusion of broad, diverse communities in the scientific process as close to the start of research activities as possible (if not described elsewhere in a proposal)
 * Integrating open science practices into citizen science activities 
 * Contributions to or involvement in open-science communities
+## OSDMP Templates
+Appendix B of this guidance provides one general example of an OSDMP template. 
+OSDMPs should reflect the practices of specific research communities, and SMD Divisions and/or specific ROSES program elements may provide additional templates or guidance. These include:
+* [Earth Science Division OSDMP template (DOC)](https://www.earthdata.nasa.gov/s3fs-public/2023-02/Earth%20Science%20Division%20OSDMP%20Template.docx?VersionId=fBxuNKFmklk3VCK4rhWKpKGgVyZwrhJE)  
+* [Heliophysics Division OSDMP template (DOC)](https://smd-prod-admin.nasawestprime.com/files/atoms/files/HPD%20OSDMP%20Template%20--%2020230210.docx)
+* [Planetary Science Division OSDMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals)
