@@ -19,11 +19,15 @@ This does not include laboratory notebooks, preliminary analyses, intermediate d
  
 **Interoperable:** As per the definition in the FAIR principles, data are able to work with other applications or workflows for analysis, storage, and processing. 
  
-^**Machine readable:** Refers to information or data that is in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost. (Source: https://resources.data.gov/glossary/machine-readable-file/) 
+**^ Machine readable:** Refers to information or data that is in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost. (Source: https://resources.data.gov/glossary/machine-readable-file/) 
 
-^**Open Access publication**: Although there are various uses of the term ‘open access’, this guidance document uses the term to refer to a method of publication in which the publisher makes the article and related content available online, free of charges or other barriers to access, immediately at the time of publication. Such articles are often licensed for sharing and reuse under a Creative Commons or similar license-type agreement that allows the authors to retain copyright while allowing others to copy, distribute, and reuse their work. 
+**^ Open Access publication**: Although there are various uses of the term ‘open access’, this guidance document uses the term to refer to a method of publication in which the publisher makes the article and related content available online, free of charges or other barriers to access, immediately at the time of publication. Such articles are often licensed for sharing and reuse under a Creative Commons or similar license-type agreement that allows the authors to retain copyright while allowing others to copy, distribute, and reuse their work. 
 
 **Open Format**: A file format for storing digital data that is defined by an openly published specification, usually maintained by a standards organization and that can be used and implemented by anyone. Open file format is licensed with an open license. 
+ 
+**^ Open Science:** The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. (Source: [https://open.science.gov/](https://open.science.gov/))
+
+**^ Open Science and Data Management Plan (OSDMP):** A document that describes how scientific information produced from a scientific activity will be shared and preserved in accordance with relevant policies. The OSDMP should include plans for sharing data, software, and publications. It may also include a description of other types of scientific information that will be shared openly and other open science activities associated with the project. An OSDMP replaces the data management plan (DMP) in some funding proposals.  
  
 **Open Source Software (OSS)**: Software that can be accessed, used, modified, and shared by anyone. OSS is often distributed under licenses that comply with the definition of “Open Source” provided by the Open Source Initiative or meet the definition of “Free Software” provided by the Free Software Foundation. 
  
