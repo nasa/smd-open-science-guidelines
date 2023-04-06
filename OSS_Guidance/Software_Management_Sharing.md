@@ -1,7 +1,7 @@
 # Software Management and Sharing
 Consistent with the principles of open-source science, software developed using SMD funding shall be made publicly available through methods that are transparent, inclusive, accessible, and reproducible. The open sharing of research software improves the reproducibility of research, enables other scientists to use and build upon software developed using public funds, and allows the researchers who share the software to be cited and recognized for the impact of their work.  As software has become increasingly more important to the scientific process, scientific manuscripts do not always capture all of the nuance that is in the source code that supports the paper.  Sharing the software ensures that others can better understand and reproduce the results reported in the manuscript. 
 
-This page contains supplemental guidance for researchers to support the implementation of requirements for software management and sharing established by SPD-41a. In addition to these pages, researchers should reference the guidance provided in the software policies and guidance provided by their relevant divisions.
+This page contains supplemental guidance for researchers to support the implementation of requirements for software management and sharing established by SPD-41a. In addition to these pages, researchers should reference relevant [policies and guidance provided by SMD divisions](SMD_Division_Policies.md).
 
 ## Software in Scope of SPD-41a
 Software is defined as computer programs, including source and object code, that provide users some degree of utility or service. Scientific software in scope of SPD-41a is software that provides users some degree of scientific utility or produces a scientific result or service. Further definitions and examples of software are provided in [Types of Research Software and Expectations for Sharing](Research_Software_Types.md).  The guidance provided here is most relevant for research software that is produced by investigations funded via SMD research awards. This software should be developed and released as described in the project’s software management plan. 
@@ -14,7 +14,7 @@ Restricted software, that is software that is subject to specific laws, regulati
 Commercial software, that is software that is produced for the purposes of sale and includes software that would be classified as commercial-off-the-shelf (CoTS), is not included in the types of software that must be released as part of research awards. Software developed in a proprietary or commercial language, such as IDL or MATLab, is expected to be released if allowed by the license. 
 
 ## Software Management Plans
-All SMD-funded scientific activities that are expected to produce software shall include a software management plan (SMP) describing how software will be managed, preserved, and released to comply with the requirements of SPD-41a. The software management plan may be one component of a broader [OSDMP](OSDMP.md). Though not required under SPD-41A, the OSDMP will be a required component of many proposals for SMD funding starting with ROSES-2023.
+All SMD-funded scientific activities that are expected to produce software shall include a software management plan (SMP) describing how software will be managed, preserved, and released to comply with the requirements of SPD-41a. The software management plan may be one component of a broader [OSDMP](OSDMP.md). Though not required under SPD-41A, the OSDMP is a required component of many proposals for SMD funding starting with ROSES-2023.
 
 At a minimum, a software management plan for SMD-funded research should include:
 * Descriptions of the software expected to be produced from the proposed activities, including types of software to be produced, how the software will be developed, and the addition of new features or updates to existing software.  This can include the platforms used for development, project management, and community-based best practices to be included such as documentation, testing, dependencies, and versioning. 
@@ -22,7 +22,7 @@ At a minimum, a software management plan for SMD-funded research should include:
 * Description of software that are subject to relevant laws, regulations, or policies that exclude them from software sharing requirements 
 * Roles and responsibilities of project personnel who will ensure implementation of the software management plan
 
-Software management plans should reflect the practices of specific research communities, and SMD Divisions and/or ROSES program elements may provide additional guidance on format and content. 
+Software management plans should reflect the practices of specific research communities, and SMD Divisions and/or ROSES program elements may provide additional guidance on format and content. See [SMD Division Policies and Guidance](SMD_Division_Policies.md).
 
 ## Timeline for Sharing Software
 Scientific software resulting from SMD-funded scientific activities shall be made publicly available, to the extent allowed by applicable law and existing NASA policies, according to the following timeline:
