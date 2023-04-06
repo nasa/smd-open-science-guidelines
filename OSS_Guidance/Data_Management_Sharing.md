@@ -1,5 +1,5 @@
 # Data Management and Sharing 
-Consistent with the principles of open-source science, data resulting from SMD-funding shall be made publicly available through methods that are transparent, inclusive, accessible, and reproducible. This section contains supplemental guidance to support the implementation of requirements for data management and sharing established by SPD-41a. In addition to these pages, researchers should reference the guidance provided in the data policies and guidance provided by their relevant SMD Divisions. These policies provide specific information about where, how, and what data should be shared including specific data repositories, metadata requirements, and recommended data formats. 
+Consistent with the principles of open-source science, data resulting from SMD-funded scientific activities shall be made publicly available through methods that are transparent, inclusive, accessible, and reproducible. This section provides guidance to support the implementation of requirements for data management and sharing established by SPD-41a. Researchers also should reference any relevant [data policies and guidance provided by SMD divisions](SMD_Division_Policies.md), which include more specific information on topics such as data repositories, metadata requirements, and recommended data formats. 
 
 ## Data in Scope of SPD-41a
 Data are defined as scientific or technically relevant information that can be stored digitally and accessed electronically. This includes any scientifically useful data associated with an award.  In particular, the information needed to validate the scientific conclusions of peer-reviewed publications must be shared at the time of publication. This does not include laboratory notebooks, preliminary analyses, intermediate data products, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as laboratory specimens. 
@@ -7,7 +7,7 @@ Data are defined as scientific or technically relevant information that can be s
 Data subject to specific laws, regulations, or policies (e.g., Export Administration Regulations (EAR) or International Traffic in Arms Regulations (ITAR)) that would prevent the release of this information are exempt from requirements for making data publicly available. Section II-C of SPD-41a lists additional laws, regulations, and policies that generate exceptions to data sharing requirements.
 
 ## Data Management Plans
-All SMD-funded scientific activities that are expected to produce scientific data shall include data management plan describing the management, preservation, and release of data to facilitate implementation of relevant scientific information policies. The data management plan may be one component of a broader [OSDMP](OSDMP.md). Though not required under SPD-41A, the OSDMP will be a required component of many proposals for SMD funding starting with ROSES-2023.
+All SMD-funded scientific activities that are expected to produce scientific data shall include data management plan describing the management, preservation, and release of data to facilitate implementation of relevant scientific information policies. The data management plan may be one component of a broader [OSDMP](OSDMP.md). Though not required under SPD-41A, the OSDMP is a required component of many proposals for SMD funding starting with ROSES-2023.
 
 At a minimum, a data management plan for SMD-funded research should include:
 * Descriptions of the data expected to be produced from the proposed activities, including types of data to be produced, the approximate amount of each data type expected, the machine-readable format of the data, data file format, and any applicable standards for the data or associated metadata 
@@ -15,12 +15,7 @@ At a minimum, a data management plan for SMD-funded research should include:
 * Description of data types that are subject to relevant laws, regulations, or policies that exclude them from data sharing requirements 
 * Roles and responsibilities of project personnel who will ensure implementation of the data management plan
 
-Data management plans should reflect the practices of specific research communities, and SMD Divisions and/or ROSES program elements may provide additional guidance on format and content. Specific guidance includes:
-* [Planetary Science Division guidance and template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals)
-* [Heliophysics Division guidance and template](https://science.nasa.gov/researchers/templates-heliophysic-division-appendix-b-roses-proposals)
-* [Earth Science Division guidance](https://www.earthdata.nasa.gov/engage/new-missions/data-management-plan-guidance)
-
-Researchers may benefit from using online, open-source tools such as [DMPTool](https://dmptool.org/) to create their data management plans. 
+Data management plans should reflect the practices of specific research communities, and SMD Divisions and/or ROSES program elements may provide additional guidance on format and content. [See SMD Division Policies and Guidance](SMD_Division_Policies.md). 
 
 ## Timeline for Sharing Data 
 Scientific data resulting from SMD-funded scientific activities shall be made publicly available, to the extent allowed by applicable law and existing NASA policies, according to the following timeline:
