@@ -14,7 +14,7 @@ This repository provides guidelines, best practices, and examples of open-source
 * [Sharing Publications](OSS_Guidance/Publications.md)
 * [Data Management and Sharing](OSS_Guidance/Data_Management_Sharing.md)
 * [Software Management and Sharing](OSS_Guidance/Software_Management_Sharing.md)
-* [Persistent Identifiers for Investigators)(OSS_Guidance/Persistent_Identifier_Investigators.md)
+* [Persistent Identifiers for Investigators](OSS_Guidance/Persistent_Identifier_Investigators.md)
 * [Sharing Materials from Science Events](OSS_Guidance/Science_Events.md)
 * [Glossary of Open-Source Science Terms](OSS_Guidance/Glossary.md)
 * Open-Source Science Case Studies - *Coming soon!*
