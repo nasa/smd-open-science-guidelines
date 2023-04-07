@@ -43,8 +43,6 @@ The USGS provides a helpful list of [criteria to consider when selecting an exte
 ### Journal Supplementary Material
 For some scientific data, such as small data sets or individual tables that accompany a journal article, the supplemental material of a published journal article may be an appropriate location for making the data accessible. To be compliant with data sharing requirements in SPD-41a, the journal must not restrict usage or require a fee to access the supplemental material, and any data provided as supplemental material must be machine readable. While sharing data as supplemental material may be appropriate in some cases, SMD encourages archiving data in community-recognized data repositories as a best practice. In some cases, this is done automatically by the journal and community repositories as part of the publication process. 
 
-Note that all scientifically useful data arising from SMD-funded research must be made publicly accessible by the end of the period of performance of the award. Therefore, sharing data via the supplemental material of a journal article would not be compliant with the policy if the publication date of the corresponding article is after the end of award performance period. 
-
 ## How to Share Data
 When sharing data, researchers should follow the [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/) for scientific data management and stewardship. The FAIR Principles include ensuring that data are:
 * **F**indable - consistent and persistent descriptions make scientific data easy to find by both humans and computers
