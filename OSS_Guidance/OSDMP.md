@@ -9,10 +9,10 @@ OSDMPs should reflect the practices of specific research communities, and SMD di
 All SMD-funded scientific activities that are expected to produce scientific data shall include a data management plan describing how data will be managed, preserved, and released to comply with the requirements of SPD-41a. General guidance on the components of data management plans for SMD is provided in the [Data Management and Sharing](Data_Management_Sharing.md) section.
 ## Software Management Plan
 All SMD-funded scientific activities that are expected to produce software shall include a software management plan describing how software will be managed, preserved, and released to comply with the requirements of SPD-41a. General guidance on the components of software management plans for SMD is provided in the [Software Management and Sharing](Software_Management_Sharing.md) section.
-## Publication Sharing Plan 
+## Open Science Plan 
 This section should describe the types of publications that are expected to be produced from the SMD-funded scientific activities, including peer reviewed manuscripts, technical reports, conference materials, and books. The plan should also outline the methods expected to be used to make the publications publicly accessible, which will likely include options listed in [How to Share Publications](Publications.md#how-to-share-publications). 
-## Other Open Science Activities
-The OSDMP may also include a description of additional open science activities associated with the project. This may include: 
+
+This section may also include a description of additional open science activities associated with the project. This may include: 
 * Holding scientific workshops and meetings openly to enable broad participation
 * Preregistering research plans in advance of conducting scientific activities 
 * Providing project personnel with open science training or enablement (if not described elsewhere in a proposal)
