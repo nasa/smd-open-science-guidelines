@@ -20,7 +20,7 @@ This section may also include a description of additional open science activitie
 * Integrating open science practices into citizen science activities 
 * Contributions to or involvement in open-science communities
 ## OSDMP Templates
-A general example of an OSDMP template for SMD is provided [here](OSDMP_template.md). 
+A general example of an OSDMP template for SMD is provided [here](OSDMP_template.md). Download this template as a Word document [here](https://github.com/RPaseka/smd-open-science-guidelines/files/11234456/SMD_OSDMP_sample_template_20230407.docx).
 
 OSDMPs should reflect the practices of specific research communities, and SMD Divisions and/or specific ROSES program elements may provide additional templates or guidance. These include:
 * [Earth Science Division OSDMP template (DOC)](https://www.earthdata.nasa.gov/s3fs-public/2023-02/Earth%20Science%20Division%20OSDMP%20Template.docx?VersionId=fBxuNKFmklk3VCK4rhWKpKGgVyZwrhJE)  
