@@ -4,7 +4,7 @@ NASA’s [Open-Source Science Initiative \(OSSI\)](https://science.nasa.gov/open
 
 As part of the OSSI, [SMD’s Scientific Information Policy](https://science.nasa.gov/researchers/science-data/science-information-policy) provides guidance on the open sharing of publications, data, and software created in the pursuit of scientific knowledge. [SPD-41a: Scientific Information Policy for the Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD-information-policy-SPD-41a.pdf) updates the previously released [SPD-41](https://science.nasa.gov/science-red/s3fs-public/atoms/files/Scientific%20Information%20policy%20SPD-41.pdf), which consolidated existing Federal and NASA policy on sharing scientific information.  SPD-41a was developed in light of new federal guidance on [Ensuring Free, Immediate, and Equitable Access to Federally Funded Research](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf), studies from the National Academies, and input from the SMD scientific community. 
 
-This repository provides guidelines, best practices, and examples of open-source science to support the SMD scientific community in implementing the requirements of SPD-41a and achieving the broad OSSI goal of moving science towards openness. **Please note the [Limitations](#limitations) to this guidance.** This guidance represents general recommendations and best practices for the SMD scientific community and should be considered alongside any additional guidance provided by SMD Divisions or specific funding solicitations. For additional information about SPD-41a and other scientific information policies that correspond to SMD Divisions, see the [Scientific Information Policy website](https://science.nasa.gov/researchers/science-data/science-information-policy) and [Frequently Asked Questions \(FAQ\)](https://science.nasa.gov/researchers/science-data/science-information-policy_faq). For open science training opportunities and additional resources, see [NASA’s Transform to Open Science \(TOPS\) program](https://nasa.github.io/Transform-to-Open-Science/). 
+This repository provides guidelines, best practices, and examples of open-source science to support the SMD scientific community in implementing the requirements of SPD-41a and achieving the broad OSSI goal of moving science towards openness. **Please note the [Limitations](#limitations) to this guidance.** This guidance represents general recommendations and best practices for the SMD scientific community and should be considered alongside any additional guidance provided by SMD Divisions or specific funding solicitations. For additional information about SPD-41a and other scientific information policies that correspond to SMD Divisions, see the [Scientific Information Policy website](https://science.nasa.gov/researchers/science-data/science-information-policy) and [Frequently Asked Questions \(FAQ\)](https://science.nasa.gov/researchers/science-data/science-information-policy_faq). For additional open science resources and training opportunities, see NASA’s see [NASA’s Transform to Open Science \(TOPS\) program](https://nasa.github.io/Transform-to-Open-Science/). 
 
 
 ## Guidance
@@ -14,16 +14,21 @@ This repository provides guidelines, best practices, and examples of open-source
 * [Sharing Publications](OSS_Guidance/Publications.md)
 * [Data Management and Sharing](OSS_Guidance/Data_Management_Sharing.md)
 * [Software Management and Sharing](OSS_Guidance/Software_Management_Sharing.md)
+* [Persistent Identifiers for Investigators](OSS_Guidance/Persistent_Identifier_Investigators.md)
 * [Sharing Materials from Science Events](OSS_Guidance/Science_Events.md)
 * [Glossary of Open-Source Science Terms](OSS_Guidance/Glossary.md)
+* Open-Source Science Case Studies - *Coming soon!*
 
-Looking for this guidance in another format? This content is also available as a PDF in [Open-Source Science Guidance v1](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf). 
+Looking for this guidance in another format? This content is also available as a PDF on the [SMD Science Information Policy page](https://science.nasa.gov/researchers/science-data/science-information-policy).
 
 ### For Missions
 * To be developed
 
 ### For Data Repositories
 * [Registering DOIs for data citation](guidance/guideline001_doi_registration.md)
+
+### SMD Division Policies and Guidance
+* [List of division-specific policies and resources](OSS_Guidance/SMD_Division_Policies.md)
 
 ## Contributing
 
@@ -35,7 +40,7 @@ Please contact the maintainers or send an email to <HQ-SMD-SPD41@mail.nasa.gov> 
 
 ## Limitations
 
-This repository does not establish policy requirements related to SMD funded activities. While the guidance described here is compliant with [SPD-41a: Scientific Information Policy for the Science Mission Directorate](https://science.nasa.gov/spd-41), it may not be comprehensive or complete, and there may be other ways in which to comply with existing or future agreements or requirements not described here. 
-For requirements related to scientific information on SMD-funded activities, please see [SPD-41a](https://science.nasa.gov/spd-41), NASA policies, and/or any requirements in the solicitation or agreement associated with the activity.
+This repository does not establish policy requirements related to SMD funded activities. While this guidance is consistent with [SPD-41a: Scientific Information Policy for the Science Mission Directorate](https://science.nasa.gov/spd-41), it may not be comprehensive or complete, and there may be other ways in which to comply with existing or future agreements or requirements not described here. 
+For specific requirements related to scientific information produced from SMD-funded scientific activities, please see [SPD-41a](https://science.nasa.gov/spd-41), NASA policies, and/or any requirements in the solicitation or agreement associated with the activity.
 
 This repository will be updated as new information becomes available.
