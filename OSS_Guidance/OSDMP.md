@@ -1,7 +1,7 @@
 # Open Science and Data Management Plan
 An Open Science and Data Management Plan (OSDMP) describes how the scientific information that will be produced from SMD-funded scientific activities will be managed and made openly available. At a minimum, the OSDMP should include sections on data management, software management, and publication sharing that describe how these categories of scientific information will be managed and openly shared to comply with applicable SMD scientific information policies. The OSDMP may also include a description of other types of scientific information that will be shared openly and other open science activities associated with the project.
 
-SPD-41a requires a data management plan and a software management plan for all SMD-funded scientific activities but does not require an OSDMP. However, many SMD funding opportunities starting with ROSES-2023 will require an OSDMP instead of the previous requirement for a data management plan. The [ROSES Open Science and Data Management Plan page](https://science.nasa.gov/researchers/sara/faqs/OSDMP/) provides additional guidance for proposers.
+Many SMD funding opportunities starting with ROSES-2023 require an OSDMP instead of the previous requirement for a data management plan. The [ROSES Open Science and Data Management Plan page](https://science.nasa.gov/researchers/sara/faqs/OSDMP/) provides additional guidance for proposers.
 
 OSDMPs should reflect the practices of specific research communities, and SMD divisions and/or specific ROSES program elements may provide additional guidance on components such as data management plans and software management plans. 
 
@@ -26,3 +26,5 @@ OSDMPs should reflect the practices of specific research communities, and SMD Di
 * [Earth Science Division OSDMP template (DOC)](https://www.earthdata.nasa.gov/s3fs-public/2023-02/Earth%20Science%20Division%20OSDMP%20Template.docx?VersionId=fBxuNKFmklk3VCK4rhWKpKGgVyZwrhJE)  
 * [Heliophysics Division OSDMP template (DOC)](https://smd-prod-admin.nasawestprime.com/files/atoms/files/HPD%20OSDMP%20Template%20--%2020230210.docx)
 * [Planetary Science Division OSDMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals)
+## Preparing the OSDMP for Dual-Anonymous Peer Review
+SMD uses a [dual-anonymous peer review](https://science.nasa.gov/researchers/dual-anonymous-peer-review) (DAPR) process for the evaluation of many ROSES program elements. The OSDMP is included in the anonymized portion of the proposal for program elements using DAPR. Proposers to these program elements must write the OSDMP in an anonymized format that does not explicitly identify the names of the team members or their institutions. The [SMD DAPR page](https://science.nasa.gov/researchers/dual-anonymous-peer-review) includes guidance for writing anonymized proposals and examples of anonymized proposal text. 
