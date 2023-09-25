@@ -26,5 +26,8 @@ OSDMPs should reflect the practices of specific research communities, and SMD Di
 * [Earth Science Division OSDMP template (DOC)](https://www.earthdata.nasa.gov/s3fs-public/2023-02/Earth%20Science%20Division%20OSDMP%20Template.docx?VersionId=fBxuNKFmklk3VCK4rhWKpKGgVyZwrhJE)  
 * [Heliophysics Division OSDMP template (DOC)](https://smd-prod-admin.nasawestprime.com/files/atoms/files/HPD%20OSDMP%20Template%20--%2020230210.docx)
 * [Planetary Science Division OSDMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals)
+
+Members of the scientific community at JPL have made available a general template that incorporates guidance from the above SMD division-specific templates. The JPL OSDMP template is available in Word and LaTeX:
+* [Cross-divisional OSDMP template developed at JPL](https://doi.org/10.5281/zenodo.8371336)
 ## Preparing the OSDMP for Dual-Anonymous Peer Review
 SMD uses a [dual-anonymous peer review](https://science.nasa.gov/researchers/dual-anonymous-peer-review) (DAPR) process for the evaluation of many ROSES program elements. The OSDMP is included in the anonymized portion of the proposal for program elements using DAPR. Proposers to these program elements must write the OSDMP in an anonymized format that does not explicitly identify the names of the team members or their institutions. The [SMD DAPR page](https://science.nasa.gov/researchers/dual-anonymous-peer-review) includes guidance for writing anonymized proposals and examples of anonymized proposal text. 
