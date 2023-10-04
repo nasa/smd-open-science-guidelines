@@ -16,7 +16,7 @@ Factors contributing to ethical challenges in AI projects include the rush to de
 This guidance will undergo continuous review and updates to ensure it remains relevant and helpful in navigating the use of AI, especially, Large Language Models (LLMs). The evolution of LLM technologies and the feedback from users will significantly contribute to the refinement of these guidelines over time.
 
 
-# Guidance to proposers:
+# Guidance to researchers:
 
 
 
