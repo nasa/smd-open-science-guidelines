@@ -22,7 +22,7 @@ This repository provides guidelines, best practices, and examples of open-source
 Looking for this guidance in another format? This content is also available as a PDF on the [SMD Science Information Policy page](https://science.nasa.gov/researchers/science-data/science-information-policy).
 
 ### For Missions
-* To be developed
+* This [community-developed resource](https://zenodo.org/records/8415584) includes an overview of SPD-41a requirements for missions and suggestions for how missions can incorporate open science practices. 
 
 ### For Data Repositories
 * [Registering DOIs for data citation](guidance/guideline001_doi_registration.md)
