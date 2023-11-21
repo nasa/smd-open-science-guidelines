@@ -1,8 +1,7 @@
 # SPD-41a FAQ
-FAQ copied from this [web page](https://science.nasa.gov/researchers/open-science/science-information-policy_faq/) for further development. 
-Read more about the SMD Scientific Information Policy (SPD-41a) [here](http://science.nasa.gov/sip).
+These FAQ are copied from this [web page](https://science.nasa.gov/researchers/open-science/science-information-policy_faq/), as updated May 12 2023. Updates to the FAQ will be developed here and updated on the web page after each substantial edit.
 
-In addition to these FAQ, the [SMD Open-Source Science Guidance](https://github.com/nasa/smd-open-science-guidelines) provides guidelines, best practices, and examples of open-source science to support the SMD scientific community in implementing the requirements of SPD-41a.  
+Read more about the SMD Scientific Information Policy (SPD-41a) [here](http://science.nasa.gov/sip). In addition to these FAQ, the [SMD Open-Source Science Guidance](science.nasa.gov/oss-guidance) provides guidelines, best practices, and examples of open-source science to support the SMD scientific community in implementing the requirements of SPD-41a.  
 
 ## Contents
 * General Information
