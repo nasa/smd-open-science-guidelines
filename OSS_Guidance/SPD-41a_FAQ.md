@@ -43,7 +43,7 @@ A. Starting with ROSES-2023, most solicitations require an Open Science and Data
 
 A. Yes. Reasonable costs of complying with SPD-41a should be included in research budgets. For ROSES proposals, the costs of all activities described in the OSDMP should be included in the proposal budget and/or budget justification. Examples of costs may include the effort to carry out open science activities, costs associated with archiving data, and fees for Open Access publishing.  
 
-SMD’s Open-Source Science Initiative also sponsors [cross-divisional ROSES funding opportunities to support open-source science activities](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/funding_opportunities.md), such as the conversion of legacy software to open source, the development of innovative tools for open science, and events to build open science skills.    
+SMD’s Open-Source Science Initiative also sponsors [cross-divisional ROSES funding opportunities to support open-source science activities](https://science.nasa.gov/researchers/open-science/nasa-open-science-funding-opportunities/), such as the conversion of legacy software to open source, the development of innovative tools for open science, and events to build open science skills.    
 
 **Q. If proposers are to include the costs of complying with SPD-41a in proposal budgets, will this correspond to fewer awards made overall?** 
 
