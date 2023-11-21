@@ -25,7 +25,7 @@ A. SPD-41a is compliant with the 2022 White House Office of Science and Technolo
 
 A. Yes. SMD divisions have updated relevant policies and guidance to ensure alignment with the requirements in SPD-41a. These division-specific resources are listed on the [Scientific Information Policy page](https://science.nasa.gov/researchers/science-data/science-information-policy/).   
 
-While SPD-41a ensures that requirements for sharing scientific information are consistent across SMD, division-level policies and guidance describe requirements in a manner that is tailored to specific scientific communities, provide relevant examples for policy implementation, and reflect input from specific research communities. SMD divisions coordinated with one another and the SMD Chief Science Data Office to ensure consistency across policies. If you have questions about which policies or guidance are applicable to your work, contact the Program Officer for your solicitation or award, division representatives, or the Chief Science Data Office at HQ-SMD-SPD41@mail.nasa.gov.  
+While SPD-41a ensures that requirements for sharing scientific information are consistent across SMD, division-level policies and guidance describe requirements in a manner that is tailored to specific scientific communities, provide relevant examples for policy implementation, and reflect input from specific research communities. SMD divisions coordinated with one another and the SMD Office of the Chief Science Data Officer to ensure consistency across policies. If you have questions about which policies or guidance are applicable to your work, contact the Program Officer for your solicitation or award, division representatives, or the Office of the Chief Science Data Officer at HQ-SMD-SPD41@mail.nasa.gov.  
 
 **Q. Is this policy all I must do?**   
 
@@ -87,7 +87,7 @@ ROSES-2023 solicitations require an Open Science and Data Management Plan that d
 
 **Q. What if I have further questions about SPD-41a that are not addressed here?**  
 
-A: The [Scientific Information Policy page](science.nasa.gov/sip) and the [SMD Open-Source Science Guidance](science.nasa.gov/oss-guidance) provide further information on many aspects of SPD-41a implementation. You also may contact the SMD Chief Science Data Office at HQ-SMD-SPD41@mail.nasa.gov with any questions about the policy.  
+A: The [Scientific Information Policy page](science.nasa.gov/sip) and the [SMD Open-Source Science Guidance](science.nasa.gov/oss-guidance) provide further information on many aspects of SPD-41a implementation. You also may contact the SMD Office of the Chief Science Data Officer at HQ-SMD-SPD41@mail.nasa.gov with any questions about the policy.  
 
 ## Publications
 **Q. How do I share my publications?** 
@@ -218,7 +218,7 @@ SMD-funded software projects that are made publicly available must include a cod
 
 **Q. The process to make software written by NASA civil servants open is extremely onerous and is generally antithetical to open science principles. For example, it can take months or years to release research code to GitHub, and the process must be repeated if the code is updated. What is SMD doing to fix this problem?** 
 
-A. NASA is in the process of updating its policy on the [Release of NASA Software \(NPR 2210.1C\)](https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2210&s=1C). SMD contributed to this process to ensure that the updated policy will support the development of open-source software by NASA civil servants. The Chief Science Data Office will continue to work across NASA to improve the processes related to the release of open-source software.  
+A. NASA is in the process of updating its policy on the [Release of NASA Software \(NPR 2210.1C\)](https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2210&s=1C). SMD contributed to this process to ensure that the updated policy will support the development of open-source software by NASA civil servants. The Office of the Chief Science Data Officer will continue to work across NASA to improve the processes related to the release of open-source software.  
 
 **Q. Some SMD-funded researchers use proprietary programming languages, such as IDL or MATLAB, to conduct their research because they were trained in these languages or because their work builds upon a body of existing scientific software that is not open source. Is this use of proprietary software languages still allowed under SPD-41a?** 
 
