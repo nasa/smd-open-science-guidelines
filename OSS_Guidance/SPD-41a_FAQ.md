@@ -65,12 +65,14 @@ A. “Scientifically useful” describes any data or software that would be nece
 The motivation behind making this information available is:  
 * Reproducibility:  Publications can sometimes be incomplete in their descriptions of an algorithm, and the availability of the underlying data or software can significantly help in reproducing the results.  
 * Reusability:  The data or software can be used in future studies to help accelerate the pace of science.  
+
 Examples of scientifically useful information could include:    
 * Catalogs generated in the analysis of objects of interest   
 * Single-use software that applied corrections to a data set  
 * Scripts for further processing  
 * Spreadsheets that include macros that were used for data analysis  
 * Jupyter notebooks that demonstrate the flow of work  
+
 SMD divisions provide additional definitions and examples of scientific utility; see ‘SMD Division Policies and Guidance’ on the [Scientific Information Policy page](https://science.nasa.gov/researchers/open-science/science-information-policy/).   
 
 **Q. What if meeting the policy requirements would place undue burden on an investigator? Can exceptions be made in these circumstances?**  
