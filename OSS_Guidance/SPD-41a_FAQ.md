@@ -149,7 +149,7 @@ Further guidance on what types of model and simulation data should be shared and
 
 **Q. Validating the scientific conclusions in a publication can require a very large volume of simulation data, which require substantial storage space and are often archived in locations that are not publicly accessible, such as High-End Computing Systems. Will NASA fund the purchase of storage and provision access to these simulation data?** 
 
-A. Proposers should include plans for sharing model and simulation data as part of the OSDMP. This should include a description of the model or simulation data would be scientifically useful to share.  SMD is currently working toward solutions to make the outputs of high-end computing and cloud computing more accessible, please see the [Data and Computing Architecture Study](https://science.nasa.gov/researchers/open-science/data-and-computing-architecture-study/) for more information.  For ROSES23, proposers do not need to include the cost of storing the scientifically useful data beyond the period of performance of the award.  
+A. Proposers should include plans for sharing scientifically useful model and simulation data as part of the OSDMP. SMD is currently working toward solutions to make the outputs of high-end computing and cloud computing more accessible as part of the [Core Data and Computing Services Program](https://science.nasa.gov/researchers/open-science/core-data-and-computing-services-program/). For ROSES-2023, proposers do not need to include the cost of storing the scientifically useful data beyond the period of performance of the award.  
 
 **Q. Are datasets used to train AI/ML models within scope of SPD-41a?** 
 
