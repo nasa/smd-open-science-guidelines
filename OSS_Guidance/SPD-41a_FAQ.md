@@ -218,7 +218,13 @@ SMD-funded software projects that are made publicly available must include a cod
 
 **Q. The process to make software written by NASA civil servants open is extremely onerous and is generally antithetical to open science principles. For example, it can take months or years to release research code to GitHub, and the process must be repeated if the code is updated. What is SMD doing to fix this problem?** 
 
-A. NASA is in the process of updating its policy on the [Release of NASA Software \(NPR 2210.1C\)](https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2210&s=1C). SMD contributed to this process to ensure that the updated policy will support the development of open-source software by NASA civil servants. The Office of the Chief Science Data Officer will continue to work across NASA to improve the processes related to the release of open-source software.  
+A. In June 2023, NASA updated its policy on the [Release of NASA Software (NPR 2210.1E)](https://nodis3.gsfc.nasa.gov/displayDir.cfm?t=NPR&c=2210&s=1C). SMD contributed to this process to ensure that the updated policy enables the development of open-source software by NASA civil servants. Notable policy updates include:
+* Software developed solely for scientific publications will be treated as other Science and Technical Information, and NPR 2210.1E is not applicable.
+* Projects can go through the Software Release process at the start and then be fully developed in the open.
+* Additional licenses other than NOSA can be used. Consult with OGC on appropriate licenses. 
+* NASA personnel can contribute to work-related open source projects with approval from their manager.
+  
+The Office of the Chief Science Data Officer will continue to work across NASA to improve processes related to the release of open-source software.  
 
 **Q. Some SMD-funded researchers use proprietary programming languages, such as IDL or MATLAB, to conduct their research because they were trained in these languages or because their work builds upon a body of existing scientific software that is not open source. Is this use of proprietary software languages still allowed under SPD-41a?** 
 
