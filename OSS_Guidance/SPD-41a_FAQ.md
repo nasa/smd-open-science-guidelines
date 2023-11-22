@@ -181,9 +181,9 @@ A. The FAIR principles provide a general expectation that:
 
 Additional recommendations on interoperability will be developed within the [SMD Open-Source Science Guidance](http://science.nasa.gov/oss-guidance). 
 
-**Q. What steps is NASA taking to make data analysis environments, including cloud computing environments, more accessible to data users?**  
+**Q. What steps is NASA taking to make data analysis environments, including cloud computing environments, more accessible to data users?**   
 
-A. The [SMD Data and Computing Architecture Study](https://science.nasa.gov/researchers/open-science/data-and-computing-architecture-study/) is an ongoing effort to identify the scientific data and computing capabilities and architectures needed to enable open science across SMD. The study is soliciting input from a broad set of stakeholders, and feedback obtained through this process will be used to identify opportunities for the long-term evolution and sustainability of SMD-wide data and computing infrastructure to enable open-source science.  
+A. The SMD [Core Data and Computing Services Program (CDCSP)](https://science.nasa.gov/researchers/open-science/core-data-and-computing-services-program/) is developing SMD-wide data and computing infrastructure to support open science, including the implementation of SPD-41a requirements. This will include an extensible SMD-wide cloud computing framework that is harmonized with existing high-end computing capabilities.
 
 ## Software
 **Q. Why should I share my software?**  
