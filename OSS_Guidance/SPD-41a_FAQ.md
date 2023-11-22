@@ -243,4 +243,5 @@ A. Under SPD-41a, SMD encourages researchers to share software that was develope
 A. As in the previous question, SPD-41a does not require SMD-funded researchers to share enhancements to previously developed software (see Section VII-C-ii), though researchers are encouraged to share software projects to the extent that they are able. 
 
 **Q. Do I need to archive input and configuration files?** 
+
 A. If input and configuration files are needed to reproduce or validate any scientific results, they must be archived in a manner consistent with other scientific information. This can include in a repository that provides a persistent identifier or as supplementary material of the publication.
