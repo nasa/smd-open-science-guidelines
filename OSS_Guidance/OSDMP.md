@@ -20,12 +20,14 @@ This section may also include a description of additional open science activitie
 * Integrating open science practices into citizen science activities 
 * Contributions to or involvement in open-science communities
 ## OSDMP Templates
-A general example of an OSDMP template for SMD is provided [here](OSDMP_template.md). Download this template as a Word document [here](https://github.com/RPaseka/smd-open-science-guidelines/files/11234456/SMD_OSDMP_sample_template_20230407.docx).
+A general example of an OSDMP template for SMD is provided [here](OSDMP_template.md). Download this template as a Word document [here](https://github.com/nasa/smd-open-science-guidelines/raw/c153ac32e1e1d5298f3490526c99f4b8f4b2b882/OSS_Guidance/SMD_OSDMP_sample_template_20230407.docx).
 
 OSDMPs should reflect the practices of specific research communities, and SMD Divisions and/or specific ROSES program elements may provide additional templates or guidance. These include:
-* [Earth Science Division OSDMP template (DOC)](https://www.earthdata.nasa.gov/s3fs-public/2023-02/Earth%20Science%20Division%20OSDMP%20Template.docx?VersionId=fBxuNKFmklk3VCK4rhWKpKGgVyZwrhJE)  
-* [Heliophysics Division OSDMP template (DOC)](https://smd-prod-admin.nasawestprime.com/files/atoms/files/HPD%20OSDMP%20Template%20--%2020230210.docx)
+* [Earth Science Division OSDMP template](https://www.earthdata.nasa.gov/engage/data-management-guidance#osdmp)
+* [Heliophysics Division OSDMP template](https://science.nasa.gov/researchers/templates-heliophysic-division-appendix-b-roses-proposals/)
 * [Planetary Science Division OSDMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals)
+* [Citizen Science Seed Funding Program (CSSFP) OSDMP template (DOC)](https://github.com/nasa/smd-open-science-guidelines/raw/c153ac32e1e1d5298f3490526c99f4b8f4b2b882/OSS_Guidance/citizenscience-osdmptemplate-v1.docx)
+
 
 Members of the scientific community at JPL have made available a general template that incorporates guidance from the above SMD division-specific templates. The JPL OSDMP template is available in Word and LaTeX:
 * [Cross-divisional OSDMP template developed at JPL](https://doi.org/10.5281/zenodo.8371336)
