@@ -23,8 +23,8 @@ This section may also include a description of additional open science activitie
 A general example of an OSDMP template for SMD is provided [here](OSDMP_template.md). Download this template as a Word document [here](https://github.com/RPaseka/smd-open-science-guidelines/files/11234456/SMD_OSDMP_sample_template_20230407.docx).
 
 OSDMPs should reflect the practices of specific research communities, and SMD Divisions and/or specific ROSES program elements may provide additional templates or guidance. These include:
-* [Earth Science Division OSDMP template (DOC)](https://www.earthdata.nasa.gov/s3fs-public/2023-02/Earth%20Science%20Division%20OSDMP%20Template.docx?VersionId=fBxuNKFmklk3VCK4rhWKpKGgVyZwrhJE)  
-* [Heliophysics Division OSDMP template (DOC)](https://smd-prod-admin.nasawestprime.com/files/atoms/files/HPD%20OSDMP%20Template%20--%2020230210.docx)
+* [Earth Science Division OSDMP template](https://www.earthdata.nasa.gov/engage/data-management-guidance#osdmp)
+* [Heliophysics Division OSDMP template](https://science.nasa.gov/researchers/templates-heliophysic-division-appendix-b-roses-proposals/)
 * [Planetary Science Division OSDMP template](https://science.nasa.gov/researchers/templates-planetary-science-division-appendix-c-roses-proposals)
 
 Members of the scientific community at JPL have made available a general template that incorporates guidance from the above SMD division-specific templates. The JPL OSDMP template is available in Word and LaTeX:
