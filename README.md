@@ -6,6 +6,7 @@ As part of the OSSI, [SMD’s Scientific Information Policy](https://science.nas
 
 This repository provides guidelines, best practices, and examples of open-source science to support the SMD scientific community in implementing the requirements of SPD-41a and achieving the broad OSSI goal of moving science towards openness. **Please note the [Limitations](#limitations) to this guidance.** This guidance represents general recommendations and best practices for the SMD scientific community and should be considered alongside any additional guidance provided by SMD Divisions or specific funding solicitations. For additional information about SPD-41a and other scientific information policies that correspond to SMD Divisions, see the [Scientific Information Policy website](https://science.nasa.gov/researchers/science-data/science-information-policy) and [Frequently Asked Questions \(FAQ\)](https://science.nasa.gov/researchers/science-data/science-information-policy_faq). For additional open science resources and training opportunities, see NASA’s see [NASA’s Transform to Open Science \(TOPS\) program](https://nasa.github.io/Transform-to-Open-Science/). 
 
+**This content is also available as a PDF on the [SMD Science Information Policy page](https://science.nasa.gov/researchers/open-science/science-information-policy/#oss-guidance).**
 
 ## Guidance
 
@@ -17,9 +18,6 @@ This repository provides guidelines, best practices, and examples of open-source
 * [Persistent Identifiers for Investigators](OSS_Guidance/Persistent_Identifier_Investigators.md)
 * [Sharing Materials from Science Events](OSS_Guidance/Science_Events.md)
 * [Glossary of Open-Source Science Terms](OSS_Guidance/Glossary.md)
-* Open-Source Science Case Studies - *Coming soon!*
-
-Looking for this guidance in another format? This content is also available as a PDF on the [SMD Science Information Policy page](https://science.nasa.gov/researchers/science-data/science-information-policy).
 
 ### For Missions
 * This [community-developed resource](https://zenodo.org/records/8415584) includes an overview of SPD-41a requirements for missions and suggestions for how missions can incorporate open science practices. 
