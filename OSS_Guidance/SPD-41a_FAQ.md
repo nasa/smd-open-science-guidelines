@@ -190,6 +190,10 @@ A. The SMD [Core Data and Computing Services Program (CDCSP)](https://science.na
 
 A. Sharing scientific software helps support two main pillars of open science: reproducibility and building on the work of others. Publications can be incomplete in their description of the underlying algorithm. While this is rarely intentional, this can still be problematic in trying to reproduce the results. Accessibility to the software used can help clarify what was written and what was done. In sharing software, we also give the next generation of scientists a clear foundation on which to build. This saves time through re-use of the software or by building on top of existing software. Sharing your software also allows it to be cited by future users, which will increase the impact of your work.  
 
+**Q. Are missions required to review and accept every community suggestion or contribution that is received during the development of open source software?** 
+
+A. No. Missions are required to develop unrestricted scientific software openly on a publicly accessible, version-controlled platform that allows for contributions for the community. This does not mean that a mission team must evaluate or accept every community comment or contribution. Missions developing open-source software are required to include a code of conduct and guidelines for contributors, which should describe how community contributions (e.g., pull requests on GitHub) will be managed. 
+
 **Q. What should be included in a software management plan?** 
 
 A. Please see ‘Software Management Plans’ in the [SMD Open-Source Science Guidance](https://science.nasa.gov/oss-guidance/) for recommendations on the components of a software plan for SMD-funded research. Software management plans should reflect the practices of specific research communities, so please follow any additional guidance on format or content for software management plans provided by SMD divisions or funding solicitations.  
