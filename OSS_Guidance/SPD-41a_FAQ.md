@@ -185,6 +185,10 @@ Additional recommendations on interoperability will be developed within the [SMD
 
 A. The SMD [Core Data and Computing Services Program (CDCSP)](https://science.nasa.gov/researchers/open-science/core-data-and-computing-services-program/) is developing SMD-wide data and computing infrastructure to support open science, including the implementation of SPD-41a requirements. This will include an extensible SMD-wide cloud computing framework that is harmonized with existing high-end computing capabilities.
 
+**Q. I’m doing fieldwork at a private site or have samples from a private group.  They have certain restrictions on how the data generated can be shared.  Am I allowed to propose to use this data or can I only use open data?**
+
+A. SPD-41a does not restrict the type of data that can be used.  If an organization that manages a private site or samples has documented policies regarding how data collected can be released publicly, then a researcher should follow those policies and document them as part of the Open Science Data Management Plan.  The release of that data would be exempt under SPD-41a as described in Section III.C. “Information subject to specific laws, regulations, or policies that would prevent the release of this information are exempt from this policy.” 
+
 ## Software
 **Q. Why should I share my software?**  
 
