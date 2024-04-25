@@ -228,7 +228,7 @@ The FAIR principles are equally applicable to all data regardless of how open th
 
 - Implement a DOI retrieval option in the local interface.
 
-- Implement a DOI retrieval option in the API, FTP, and other programmatic interface(s).
+- Implement a DOI retrieval option in the API, SFTP, and other programmatic interface(s).
 
 ### A1.1 the protocol is open, free, and universally implementable
 
