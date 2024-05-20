@@ -171,9 +171,9 @@ This aspect of FAIRness is a practical one, in that it explicitly notes that a u
 
 #### First Steps
 
-- Ensure the DOI/identifier is included in the data product metadata as well as embedded in the landing page in human-readable and machine-readable formats. Typically resolution protocol should be included with the identifier (e.g., https://doi.org/…) 
+- Ensure the DOI/identifier is included in the data product metadata as well as embedded in the landing page in human-readable and machine-readable formats. Typically a resolution protocol should be included with the identifier (e.g., https://doi.org/…) 
 
-- Ensure an identifier is included in the DOI metadata directing to detailed product metadata. Use the RelatedIdentifier field with relationType IsDescribedBy.
+- Ensure a resolvable identifier is included in the DOI metadata directing to detailed product metadata. Use the RelatedIdentifier field with relationType IsDescribedBy.
 
 - Ensure the DOI/identifier is included in the initial metadata returned in response to user queries through public interfaces (be they web-based or API).
 
