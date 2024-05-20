@@ -1,4 +1,4 @@
-# How to make NASA Science Data more FAIR \
+# How to make NASA Science Data more FAIR
 Final Draft for Open Comment \
 2024-04-02
 
@@ -533,7 +533,7 @@ The sections above describe initial work that repositories can undertake (fundin
 
 - Samrawit Gebre (BPS) [https://orcid.org/0000-0002-8963-4856](https://orcid.org/0000-0002-8963-4856) 
 
-- Julie Imig (APD) [https://orcid.org0000-0002-8595-5134](https://orcid.org0000-0002-8595-5134) 
+- Julie Imig (APD) [https://orcid.org/0000-0003-2025-3585](https://orcid.org/0000-0003-2025-3585)
 
 - Lan Jian (HPD) [https://orcid.org/0000-0002-6849-5527](https://orcid.org/0000-0002-6849-5527) 
 
