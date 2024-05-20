@@ -1,4 +1,4 @@
-# How to make NASA Science Data more FAIR \
+# How to make NASA Science Data more FAIR
 Final Draft for Open Comment \
 2024-04-02
 
@@ -171,9 +171,9 @@ This aspect of FAIRness is a practical one, in that it explicitly notes that a u
 
 #### First Steps
 
-- Ensure the DOI/identifier is included in the data product metadata as well as embedded in the landing page in human-readable and machine-readable formats. Typically resolution protocol should be included with the identifier (e.g., https://doi.org/…) 
+- Ensure the DOI/identifier is included in the data product metadata as well as embedded in the landing page in human-readable and machine-readable formats. Typically a resolution protocol should be included with the identifier (e.g., https://doi.org/…) 
 
-- Ensure an identifier is included in the DOI metadata directing to detailed product metadata. Use the RelatedIdentifier field with relationType IsDescribedBy.
+- Ensure a resolvable identifier is included in the DOI metadata directing to detailed product metadata. Use the RelatedIdentifier field with relationType IsDescribedBy.
 
 - Ensure the DOI/identifier is included in the initial metadata returned in response to user queries through public interfaces (be they web-based or API).
 
@@ -533,7 +533,7 @@ The sections above describe initial work that repositories can undertake (fundin
 
 - Samrawit Gebre (BPS) [https://orcid.org/0000-0002-8963-4856](https://orcid.org/0000-0002-8963-4856) 
 
-- Julie Imig (APD) [https://orcid.org0000-0002-8595-5134](https://orcid.org0000-0002-8595-5134) 
+- Julie Imig (APD) [https://orcid.org/0000-0003-2025-3585](https://orcid.org/0000-0003-2025-3585)
 
 - Lan Jian (HPD) [https://orcid.org/0000-0002-6849-5527](https://orcid.org/0000-0002-6849-5527) 
 
