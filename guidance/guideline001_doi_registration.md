@@ -4,7 +4,7 @@ These guidelines recommend that NASA data repositories use DOIs as persistent id
 
 The guidelines provide an overview of the scenarios in which NASA data repositories may need to register a DOI and the mechanisms through which they can do so. They provide guidance on the registration process and appropriate roles. The intent is to identify services and define a process that allow data repositories the flexibility they need to respond to the needs of their user communities while also enabling the creation of a central NASA registry of DOIs managed through the Scientific and Technical Information (STI) Program Office.
 
-For more details on the precise scope of the guideline, supporting policy, general context, and maintenance plans, see the [full Request For Comment](request_for_comment/draft/RFC_001_data_citation_identifier.md).
+For more details on the precise scope of the guideline, supporting policy, general context, and maintenance plans, see the [full Request For Comment](smd-open-science-guidelines/request_for_comment/draft/RFC_001_data_citation_identifier.md).
 
 ## Primary Guidance:
 1. NASA SMD-funded data intended or used for citation in the scientific literature should have a DOI registered through a NASA-designated DOI registration authority. As of January 2023, DataCite is the NASA-designated DOI registration as DataCite provides the only DOI Registration Authority and metadata schema suitable for data. 
