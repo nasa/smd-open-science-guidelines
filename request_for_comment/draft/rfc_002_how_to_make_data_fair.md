@@ -301,7 +301,7 @@ NASA may already be using a limited number of languages and metadata formats. Ex
 
 - Mapping between Schema.org and DataCite: [https://doi.org/10.5281/zenodo.7661398](https://doi.org/10.5281/zenodo.7661398) 
 
-- Mapping between Schema.org and 14 metadata models: Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty; An Analysis of Crosswalks from Research Data Schemas to Schema.org. Data Intelligence 2023; 5 (1): 100–121. doi: [https://doi.org/10.1162/dint_a_00186](https://doi.org/10.1162/dint_a_00186) , [https://docs.google.com/spreadsheets/d/1P6WH8h4OnIVR9UJj3FcOebNUpLnKNBCuvEp3NsLRho4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1P6WH8h4OnIVR9UJj3FcOebNUpLnKNBCuvEp3NsLRho4/edit?usp=sharing) 
+- Mapping between Schema.org and 14 metadata models: Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty; An Analysis of Crosswalks from Research Data Schemas to Schema.org. Data Intelligence 2023; 5 (1): 100–121. doi: [https://doi.org/10.1162/dint_a_00186](https://doi.org/10.1162/dint_a_00186) 
 
 ### I2. (meta)data use vocabularies that follow FAIR principles
 
