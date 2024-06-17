@@ -1,5 +1,6 @@
-# How to make NASA Science Data more FAIR \
-Final Draft for Open Comment \
+# How to make NASA Science Data more FAIR 
+
+Final Draft for Open Comment 
 2024-04-02
 
 # Introduction
