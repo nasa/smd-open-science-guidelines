@@ -152,7 +152,7 @@ Defining the rich metadata necessary to enable interdisciplinary search is espec
 
 #### Resources and Guidance
 
-- [Science Discovery Engine core metadata elements](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/18-6ZToXJPw_rKF0nb9Pua1VANMu-7Lec7183P-nDIZs/edit?usp%3Dsharing&sa=D&source=docs&ust=1705439530011685&usg=AOvVaw2biPLKdYjrXTXdo1l2JiWi) and crosswalks across divisions and DCAT3 (in development)
+- [Science Discovery Engine core metadata elements]([https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/18-6ZToXJPw_rKF0nb9Pua1VANMu-7Lec7183P-nDIZs/edit?usp%3Dsharing&sa=D&source=docs&ust=1705439530011685&usg=AOvVaw2biPLKdYjrXTXdo1l2JiWi](https://docs.google.com/spreadsheets/d/18-6ZToXJPw_rKF0nb9Pua1VANMu-7Lec7183P-nDIZs/edit?usp=sharing) and crosswalks across divisions and DCAT3 (in development)
 
 - The [OAIS Reference Model (ISO 14721) provides](http://www.oais.info/) (developed by NASA) is a general conceptual model for descriptive metadata. 
 
