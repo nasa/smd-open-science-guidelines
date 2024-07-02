@@ -1,5 +1,7 @@
-# How to make NASA Science Data more FAIR
-Final Draft for Open Comment \
+
+# How to make NASA Science Data more FAIR 
+
+Final Draft for Open Comment  \
 2024-04-02
 
 # Introduction
@@ -151,7 +153,7 @@ Defining the rich metadata necessary to enable interdisciplinary search is espec
 
 #### Resources and Guidance
 
-- [Science Discovery Engine core metadata elements](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/18-6ZToXJPw_rKF0nb9Pua1VANMu-7Lec7183P-nDIZs/edit?usp%3Dsharing&sa=D&source=docs&ust=1705439530011685&usg=AOvVaw2biPLKdYjrXTXdo1l2JiWi) and crosswalks across divisions and DCAT3 (in development)
+- [Science Discovery Engine core metadata elements]([https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/18-6ZToXJPw_rKF0nb9Pua1VANMu-7Lec7183P-nDIZs/edit?usp%3Dsharing&sa=D&source=docs&ust=1705439530011685&usg=AOvVaw2biPLKdYjrXTXdo1l2JiWi](https://docs.google.com/spreadsheets/d/18-6ZToXJPw_rKF0nb9Pua1VANMu-7Lec7183P-nDIZs/edit?usp=sharing) and crosswalks across divisions and DCAT3 (in development)
 
 - The [OAIS Reference Model (ISO 14721) provides](http://www.oais.info/) (developed by NASA) is a general conceptual model for descriptive metadata. 
 
@@ -228,7 +230,7 @@ The FAIR principles are equally applicable to all data regardless of how open th
 
 - Implement a DOI retrieval option in the local interface.
 
-- Implement a DOI retrieval option in the API, FTP, and other programmatic interface(s).
+- Implement a DOI retrieval option in the API, SFTP, and other programmatic interface(s).
 
 ### A1.1 the protocol is open, free, and universally implementable
 
@@ -301,7 +303,7 @@ NASA may already be using a limited number of languages and metadata formats. Ex
 
 - Mapping between Schema.org and DataCite: [https://doi.org/10.5281/zenodo.7661398](https://doi.org/10.5281/zenodo.7661398) 
 
-- Mapping between Schema.org and 14 metadata models: Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty; An Analysis of Crosswalks from Research Data Schemas to Schema.org. Data Intelligence 2023; 5 (1): 100–121. doi: [https://doi.org/10.1162/dint_a_00186](https://doi.org/10.1162/dint_a_00186) , [https://docs.google.com/spreadsheets/d/1P6WH8h4OnIVR9UJj3FcOebNUpLnKNBCuvEp3NsLRho4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1P6WH8h4OnIVR9UJj3FcOebNUpLnKNBCuvEp3NsLRho4/edit?usp=sharing) 
+- Mapping between Schema.org and 14 metadata models: Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty; An Analysis of Crosswalks from Research Data Schemas to Schema.org. Data Intelligence 2023; 5 (1): 100–121. doi: [https://doi.org/10.1162/dint_a_00186](https://doi.org/10.1162/dint_a_00186) 
 
 ### I2. (meta)data use vocabularies that follow FAIR principles
 
