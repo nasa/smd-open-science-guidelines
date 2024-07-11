@@ -8,7 +8,7 @@ This repository provides guidelines, best practices, and examples of open-source
 
 **This content is also available as a PDF on the [SMD Science Information Policy page](https://science.nasa.gov/researchers/open-science/science-information-policy/#oss-guidance).**
 
-Learn more about open science by completing NASA's Open Science 101 curriculum, part of the [Transform to Open Science \(TOPS\) initiative](https://nasa.github.io/Transform-to-Open-Science/). The information in Open Science 101 complements this Open-Source Science Guidance by providing additional definitions, tools, resources, and best practices. You can earn a NASA Open Science Certification by completing [instructor-led or self-paced modules](https://nasa.github.io/Transform-to-Open-Science/take-os101/), and you can access the [curriculum content on GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/Open-Science-101/modules). 
+Learn more about open science by completing NASA's Open Science 101 curriculum, part of the [Transform to Open Science \(TOPS\) initiative](https://nasa.github.io/Transform-to-Open-Science/). The information in Open Science 101 complements this Open-Source Science Guidance by providing additional definitions, tools, resources, and best practices. You can earn a NASA Open Science Certification by completing [instructor-led or self-paced modules](https://nasa.github.io/Transform-to-Open-Science/take-os101/), and you can access the [curriculum content on GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/open-science-101). 
 
 ## Guidance
 
