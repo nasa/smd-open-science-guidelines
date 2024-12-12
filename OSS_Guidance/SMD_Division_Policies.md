@@ -19,7 +19,7 @@ SMD divisions coordinated with one another and the SMD Chief Science Data Office
 * [Heliophysics Data Page](https://science.nasa.gov/heliophysics/heliophysics-data)
 * [Heliophysics Division Science Data Management Policy](https://smd-cms.nasa.gov/wp-content/uploads/2023/08/hpd-data-policy-final-20230202.pdf)
 ## Planetary Science Division
-* [Planetary Data Science Overview Page](https://science.nasa.gov/solar-system/planetary-data-overview)
-* [Planetary Science Division Information and Data Management Policy](https://smd-cms.nasa.gov/wp-content/uploads/2023/05/PSDInformationDataManagementPolicy.pdf)
+* [Planetary Science Data Overview Page](https://planetary.data.nasa.gov/)
+* [Planetary Science Division Information and Data Management Policy](https://planetary.data.nasa.gov/policies-standards-reports/planetary-data-management)
 * [Planetary Data System](https://pds.nasa.gov/)
 * [PDS Information for Data Proposers](https://pds.nasa.gov/home/proposers/) 
