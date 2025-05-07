@@ -25,7 +25,7 @@ Most terms in this section are copied from Appendix B of [SPD-41a](https://scien
 
 **Open Format**: A file format for storing digital data that is defined by an openly published specification, usually maintained by a standards organization and that can be used and implemented by anyone. Open file format is licensed with an open license. 
  
-**^ Open Science:** The principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. (Source: [https://open.science.gov/](https://open.science.gov/))
+**^ Open Science:** Open science is a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding. [DOI: 10.1029/2020EA001562](https://doi.org/10.1029/2020EA001562) 
 
 **^ Open Science and Data Management Plan (OSDMP):** A document that describes how scientific information produced from a scientific activity will be shared and preserved in accordance with relevant policies. The OSDMP should include plans for sharing data, software, and publications. It may also include a description of other types of scientific information that will be shared openly and other open science activities associated with the project. An OSDMP replaces the data management plan (DMP) in some funding proposals.  
  
