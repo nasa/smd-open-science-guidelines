@@ -16,9 +16,10 @@ This section may also include a description of additional open science activitie
 * Holding scientific workshops and meetings openly to enable broad participation
 * Preregistering research plans in advance of conducting scientific activities 
 * Providing project personnel with open science training or enablement (if not described elsewhere in a proposal)
-* Implementing practices that support the inclusion of broad, diverse communities in the scientific process as close to the start of research activities as possible (if not described elsewhere in a proposal)
+* Implementing practices that support the collaboration with communities in the scientific process as close to the start of research activities as possible (if not described elsewhere in a proposal)
 * Integrating open science practices into citizen science activities 
 * Contributions to or involvement in open-science communities
+  
 ## OSDMP Templates
 A general example of an OSDMP template for SMD is provided [here](OSDMP_template.md). Download this template as a Word document [here](https://github.com/nasa/smd-open-science-guidelines/raw/c153ac32e1e1d5298f3490526c99f4b8f4b2b882/OSS_Guidance/SMD_OSDMP_sample_template_20230407.docx).
 
