@@ -32,6 +32,7 @@ SMD-funded researchers should follow any guidance for how to share data provided
 While SMD encourages the use of domain-specific data repositories when possible, such repositories are not available for all data sets. In this case, researchers may select a generalist data repository that is already in use by the scientific community and follows the characteristics of acceptable data repositories in Appendix D of SPD-41a. Generalist repositories include [data.nasa.gov](data.nasa.gov), as well as others provided by other federal agencies and by nongovernmental institutions. 
 
 SMD does not recommend any specific generalist repositories at this time. Following the examples of the [NIH](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/generalist-repositories) and [USGS](https://www.usgs.gov/office-of-science-quality-and-integrity/acceptable-digital-repositories-usgs-scientific), the non-exhaustive list below is provided as a starting point for locating commonly used generalist repositories that may be suitable for archiving SMD-funded research data. 
+
 * [Zenodo](https://zenodo.org/) 
 * [Open Science Framework](https://osf.io/)
 * [Dryad](https://datadryad.org/stash)
@@ -41,16 +42,20 @@ SMD does not recommend any specific generalist repositories at this time. Follow
 The USGS provides a helpful list of [criteria to consider when selecting an external repository](https://www.usgs.gov/office-of-science-quality-and-integrity/fundamental-science-practices-fsp-criteria-selecting-non).
 
 ### Journal Supplementary Material
+
 For some scientific data, such as small data sets or individual tables that accompany a journal article, the supplemental material of a published journal article may be an appropriate location for making the data accessible. To be compliant with data sharing requirements in SPD-41a, the journal must not restrict usage or require a fee to access the supplemental material, and any data provided as supplemental material must be machine readable. While sharing data as supplemental material may be appropriate in some cases, SMD encourages archiving data in community-recognized data repositories as a best practice. In some cases, this is done automatically by the journal and community repositories as part of the publication process. 
 
 ## How to Share Data
+
 When sharing data, researchers should follow the [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/) for scientific data management and stewardship. The FAIR Principles include ensuring that data are:
+
 * **F**indable - consistent and persistent descriptions make scientific data easy to find by both humans and computers
 * **A**ccessible - use of standard, open protocols ensure data and metadata can be accessed by all.
 * **I**nteroperable - formal, accessible, and widely adopted semantics and vocabularies are used to expand data usability across systems and communities
 * **R**eusable - data are richly described according to standards to ensure they can be combined or replicated, and usage rights are clarified
 
 The following items are consistent with the FAIR Guiding Principles and are intended to help ensure that data are preserved and accessible to support reproducibility and reuse. These items are required (denoted using “shall”) or recommended (denoted using “should”) when publicly sharing research data developed using SMD funding. 
+
 * **Open accessibility**: Publicly available, SMD-funded data shall be made available without fee or restriction of use. The data shall be shared in a repository that provides open access to datasets and their metadata free of charge in a timely manner after submission, consistent with legal and policy requirements related to maintaining privacy and confidentiality, Tribal and national data sovereignty, and protection of sensitive data. The data will be accessible to the public (lay and scientific) without pre-approval. 
 * **Format**: SMD-funded data and metadata shall be made available for access, download, or export in non-proprietary, modifiable, open, and machine-readable formats consistent with standards used in the disciplines the repository serves.
 * **Inclusion of metadata**: SMD-funded data shall include robust, standards-compliant metadata that clearly and explicitly describe the data. Inclusion of metadata by the repository enables discovery, reuse, and citation of SMD-funded data. 
