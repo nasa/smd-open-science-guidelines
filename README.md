@@ -1,6 +1,6 @@
-# NASA Science Mission Directorate: Open-Source Science Guidance
+# NASA Science Mission Directorate: Open Science Guidance
 
-N ASA is making a long-term commitment to [Open Science](https://science.nasa.gov/open-science/) to increase the transparency, availability, and reproducibility of its scientific results. Open science is a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding.  
+NASA is making a long-term commitment to [Open Science](https://science.nasa.gov/open-science/) to increase the transparency, availability, and reproducibility of its scientific results. Open science is a collaborative culture enabled by technology that empowers the open sharing of data, information, and knowledge within the scientific community and the wider public to accelerate scientific research and understanding.  
 
 NASA’s commitment includes a comprehensive program of activities to enable and support moving science towards openness, and it aims to implement NASA's [Public Access Plan](https://www.nasa.gov/wp-content/uploads/2025/01/nasa-public-access-plan-2024-dec20final.pdf) and the Science Mission Directorate's [Strategy for Data Management and Computing for Groundbreaking Science 2019-2024](https://science.nasa.gov/wp-content/uploads/2023/05/SDMWGStrategy_Final.pdf). This includes a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) as early as possible in the scientific process. The principles of open science are to make publicly funded scientific research transparent, available, and reproducible. 
 
@@ -13,13 +13,13 @@ Learn more about open science by completing NASA's [Open Science 101 curriculum]
 ## Guidance
 
 ### For Researchers
-* [Open Science and Data Management Plan](Researcher_Guidance/OSDMP.md)
-* [Sharing Publications](Researcher_Guidance/Publications.md)
-* [Data Management and Sharing](Researcher_Guidance/Data_Management_Sharing.md)
-* [Software Management and Sharing](Researcher_Guidance/Software_Management_Sharing.md)
-* [Persistent Identifiers for Investigators](Researcher_Guidance/Persistent_Identifier_Investigators.md)
-* [Sharing Materials from Science Events](Researcher_Guidance/Science_Events.md)
-* [Glossary of Open-Source Science Terms](Researcher_Guidance/Glossary.md)
+* [Open Science and Data Management Plan](Research_Guidance/OSDMP.md)
+* [Sharing Publications](Research_Guidance/Publications.md)
+* [Data Management and Sharing](Research_Guidance/Data_Management_Sharing.md)
+* [Software Management and Sharing](Research_Guidance/Software_Management_Sharing.md)
+* [Persistent Identifiers for Investigators](Research_Guidance/Persistent_Identifier_Investigators.md)
+* [Sharing Materials from Science Events](Research_Guidance/Science_Events.md)
+* [Glossary of Open-Source Science Terms](Research_Guidance/Glossary.md)
 
 ### For Missions
 * This [community-developed resource](https://zenodo.org/records/8415584) includes an overview of SPD-41a requirements for missions and suggestions for how missions can incorporate open science practices. 
@@ -28,7 +28,7 @@ Learn more about open science by completing NASA's [Open Science 101 curriculum]
 * [Registering DOIs for data citation](Repository_Guidance/guideline001_doi_registration.md)
 
 ### SMD Division Policies and Guidance
-* [List of division-specific policies and resources](Researcher_Guidance/SMD_Division_Policies.md)
+* [List of division-specific policies and resources](Research_Guidance/SMD_Division_Policies.md)
 
 ## Contributing
 
