@@ -106,7 +106,7 @@ Note that Open Access publishing, which can be associated with high article proc
 
 **Q. It is common to present scientific results that are preliminary or unpublished at conferences. Does SPD-41a require these presentations to be made publicly available?** 
 
-A. SPD-41a does not require the sharing of preliminary results. If preliminary results are included in a conference presentation, they may be redacted prior to sharing other parts of the presentation more widely. There are significant benefits to researchers to appropriately sharing their preliminary results publicly: it makes the scientific process more inclusive, transparent, and collaborative at all stages.  
+A. SPD-41a does not require the sharing of preliminary results. If preliminary results are included in a conference presentation, they may be redacted prior to sharing other parts of the presentation more widely. There are significant benefits to researchers to appropriately sharing their preliminary results publicly: it makes the scientific process more transparent and collaborative at all stages.  
 
 See ‘Sharing Materials from Science Events’ in the [SMD Open-Source Science Guidance](http://science.nasa.gov/oss-guidance) for more information.  
 
